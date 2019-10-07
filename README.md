@@ -18,7 +18,7 @@ De annotation @OneToMany  introduceert een nieuw attribute: fetch. Het standaard
 
 Om een dergelijke schema te implementeren, heb ik “Cust_id” attribute as foreign key in de tabel Order toegevoegd. Deze key is verantwoordelijk voor het bijhouden van welke customer de order heeft besteld.
 
-![image](https://user-images.githubusercontent.com/36681851/66326978-45c5cd00-e92a-11e9-8674-799d4c880afb.png)
+https://raw.githubusercontent.com/mmeziane/EnovationTestDemo/master/CustomerOrder%20Diagram.png
 
 
 
