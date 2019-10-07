@@ -20,5 +20,18 @@ Om een dergelijke schema te implementeren, heb ik “Cust_id” attribute as for
 ![image](https://user-images.githubusercontent.com/36681851/66329651-27ae9b80-e92f-11e9-9512-7284d3f1c2f1.png)
 
 
+## Gebruikte tools en technologieën
+
+1. Spring boot 2+
+1. JDK 1.8+
+1. Maven 3+
+1. IDE - STS or Eclipse
+1. REST API
+1. Spring Data JPA
+1. actuator
+1. Spring Security
+1. JSR303 Bean validation
+1. Spring REST Docs
+1. Docker Image (Dockerfile)
 
 
