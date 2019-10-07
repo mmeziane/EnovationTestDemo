@@ -13,9 +13,7 @@ Het omgekeerde van Many-to-One relationship is One-to-Many relationship. De Cust
 De annotation @OneToMany  introduceert een nieuw attribute: fetch. Het standaard ophaaltype voor one-to-Many relationship is LAZY.
 
 
-## 4 Database Schema
-
-## 5 Database Schema
+## 3 Database Schema
 
 
 Om een dergelijke schema te implementeren, heb ik “Cust_id” attribute as foreign key in de tabel Order toegevoegd. Deze key is verantwoordelijk voor het bijhouden van welke customer de order heeft besteld.
