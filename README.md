@@ -28,7 +28,7 @@ Om een dergelijke schema te implementeren, heb ik “Cust_id” attribute as for
 1. IDE - STS or Eclipse
 1. REST API
 1. Spring Data JPA
-1. actuator
+1. Actuator
 1. Spring Security
 1. JSR303 Bean validation
 1. Spring REST Docs
