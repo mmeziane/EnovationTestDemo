@@ -22,17 +22,17 @@ Om een dergelijke schema te implementeren, heb ik “Cust_id” attribute as for
 
 ## 4 Gebruikte tools en technologieën
 
-### 4.1 Spring boot 2+
-### 4.2 JDK 1.8+
-### 4.3 Maven 3+
-### 4.4 IDE - STS or Eclipse
-### 4.5 REST API
-### 4.6 Spring Data JPA
-### 4.7 actuator
-### 4.8 Spring Security
-### 4.9 JSR303 Bean validation
-### 4.10 Spring REST Docs
-### 4.11 Docker Image (Dockerfile)
+1. Spring boot 2+
+1. JDK 1.8+
+1. Maven 3+
+1. IDE - STS or Eclipse
+1. REST API
+1. Spring Data JPA
+1. actuator
+1. Spring Security
+1. JSR303 Bean validation
+1. Spring REST Docs
+1. Docker Image (Dockerfile)
 
 
 
